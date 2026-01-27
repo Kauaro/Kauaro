@@ -8,7 +8,7 @@
   Atualmente já conclui meu ensino técnico de TI na FIEB e estou cursando <br>
   a faculdade de .<br>
   <br />
-  Possuo experiências em linguagens como, ReactJS, JavaScript, HTML/CSS, <br>
+  Possuo experiências em linguagens como, ReactJS, JavaScript, HTML/CSS, 
   TypeScript, C# / .NET, Java, Docker, Flutter ,MySQL. <br>
 </p>
 
